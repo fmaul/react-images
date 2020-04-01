@@ -137,5 +137,8 @@ declare const Modal: React.ComponentType<ModalProps>;
 
 declare const ModalGateway: React.ComponentType<{}>;
 
+declare const carouselComponents: Components;
+
 export default Carousel;
 export { Modal, ModalGateway };
+export { carouselComponents }
